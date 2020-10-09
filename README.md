@@ -1,6 +1,6 @@
-# 1D Shock Tube using Lax-Friedrich and Roe Averaging with Adjustable Time Stepping.
+1D Shock Tube using Lax-Friedrich and Roe Averaging with Adjustable Time Stepping.
 
-# Roe is stable for higher cfl numbers unlike Lax-Friedrich is limited to lower cfl.
+Roe is stable for higher cfl numbers unlike Lax-Friedrich is limited to lower cfl.
 
 # Density
 ![Density](https://user-images.githubusercontent.com/68074795/95586547-7620d980-0a5e-11eb-9c6e-c375a8ab8369.jpg)
